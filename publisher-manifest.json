@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ee0f488f1bb5b5027dc4b6a2",
+  "owner": "bjdqkn",
+  "repo": "page-9f7f0297808b869741323404",
+  "title": "守望雲(SWCLOUD)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9f7f0297808b869741323404",
+      "a": "守望雲(SWCLOUD)",
+      "b": "2027最新官网",
+      "entity": "守望雲(SWCLOUD)",
+      "brand": "守望雲(SWCLOUD)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "06d7f0254243503c34eed62c137d3cef9d13787eca3871668b8f672c6478c57f",
+      "content": {
+        "primary_entity": "守望雲(SWCLOUD)",
+        "keyword1": "守望雲(SWCLOUD)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "桌面端与移动端均有对应客户端可选，按设备系统挑选合适版本，再导入订阅链接即可开始使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "结合自己的设备数量与每月流量需求挑一个合适的套餐，配置好订阅就能稳定使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更从容",
+          "AI_DESCRIPTION": "，围绕设备数量、每月流量与线路品质划分三个档位，月付与年付都提供对应方案。基础版适合单人或轻量使用，旗舰版面向多设备与流媒体、游戏场景，团队版提供更大流量与专属线路支持，可按需组合。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，挑选前先理清自己的实际使用场景。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合个人轻量浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备，IPLC 专线对游戏与流媒体更友好。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备，支持定制路由方向与专属服务。",
+          "AI_FEATURE_TITLE_1": "流量档位",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "线路品质",
+          "AI_GUIDE_INTRO": "结合设备数量与流量需求选定套餐，再按客户端说明完成订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "守望雲(SWCLOUD)提供多档海外加速套餐，覆盖个人与团队场景，月付与年付灵活切换，选好套餐后按设备客户端配置订阅即可。",
+          "AI_HERO_SUBTITLE": "多设备多场景的加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐适配不同设备规模",
+          "AI_HIGHLIGHT_2": "月付年付灵活切换更省成本",
+          "AI_HIGHLIGHT_3": "IPLC 专线优化游戏与流媒体",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别为 ¥150、¥350、¥850，按流量与设备数对照即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "对照每月流量与同时在线设备数量，在基础版、旗舰版与团队版中选定档位。",
+          "AI_STEP_TEXT_2": "确认自己的操作系统与设备类型，查看对应客户端的适配说明与安装要求。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅链接，完成后即可开始连接使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "守望雲多档加速方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、套餐升级与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何导入订阅？",
+          "AI_FAQ_ANSWER_1": "在对应客户端中找到订阅或配置导入入口，粘贴订阅链接后更新即可。桌面端与移动端操作路径略有差异，按客户端文档指引进行，导入后测试连接状态。",
+          "AI_FAQ_QUESTION_2": "同时在线设备数如何计算？",
+          "AI_FAQ_ANSWER_2": "按套餐标注同时在线设备数计算，基础版3台、旗舰版5台、团队版20台。多设备同一时间连接会占用相应数量，超出时需升级套餐或减少同时在线设备。",
+          "AI_FAQ_QUESTION_3": "可以中途升级套餐吗？",
+          "AI_FAQ_ANSWER_3": "通常允许在订阅周期内按剩余时间折算升级差价，具体以购买时的结算说明为准。升级后流量与设备数按新套餐执行，原有订阅周期可延续。",
+          "AI_FAQ_QUESTION_4": "年付与月付有什么区别？",
+          "AI_FAQ_ANSWER_4": "年付价格更低，基础版150元/年、旗舰版350元/年、团队版850元/年，折算后相当于节省两个月费用；月付灵活，适合短期试用或需求不固定的情况。",
+          "AI_FAQ_QUESTION_5": "流媒体与游戏加速如何选择？",
+          "AI_FAQ_ANSWER_5": "基础版可解锁基础流媒体，旗舰版支持全节点原生流媒体解锁与IPLC专线游戏加速优化，团队版提供VIP高带宽节点。按主要用途选择对应套餐即可。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kq658fra.com",
+    "host": "xn--9kq658fra.com"
+  },
+  "file_hashes": {
+    "index.html": "29be9b6c08f14f8c1c1cf7d33a51aa5d513e31946d38b3048b44cebc04be038e",
+    "sitemap.xml": "2ef0e37029270b77b9752eb405be92b8e9dc14ae5b4fa26646c2dad22361eb5c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5320b63764e6a7886f6a7dacacacd12f849649e05effb3602b04d7ad98178d20",
+    "robots.txt": "6da6c84a0137e2014b60a9112ded4caa31b8a3fbae0fb0a6f8a95cc89d6cb0f5",
+    "76278f48a86c790c09e32aa78f801656.txt": "3da3d6ea8e53d58e6bb2f1f979a5b2573bb9004ffbae003806f12d45c32fcdb0"
+  },
+  "revision": "3b404d3087de70564451cb190941d6933ebc94735f854b41f7708b319c7ccd78"
+}
